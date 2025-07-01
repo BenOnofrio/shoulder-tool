@@ -1,0 +1,1938 @@
+{
+  "Q1": {
+    "Supraspinatus": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Age": "All Age Groups"
+    },
+    "Subscapularis": {
+      "Anterior Shoulder": 1,
+      "Axilla": 1,
+      "Age": "All Age Groups"
+    },
+    "Infraspinatus": {
+      "Lateral Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Age": "All Age Groups"
+    },
+    "Teres Minor/Major": {
+      "Posterior Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Age": "All Age Groups"
+    },
+    "Rotator Cuff FT Tear": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Age": "Middle Aged"
+    },
+    "Cervical Spine (C4-C6)": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Neck Referral": 2,
+      "Interscapular": 1,
+      "Thoracic Spine": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Below Wrist": 1,
+      "Age": "Middle Aged"
+    },
+    "Thoracic Spine (T1-T4)": {
+      "Posterior Shoulder": 1,
+      "Neck Referral": 1,
+      "Interscapular": 1,
+      "Thoracic Spine": 1,
+      "Age": "Middle Aged"
+    },
+    "Cervical Disc Pathology": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Neck Referral": 2,
+      "Interscapular": 1,
+      "Thoracic Spine": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Below Wrist": 1,
+      "Age": "Middle Aged/Elderly"
+    },
+    "Trapezius": {
+      "Superior Shoulder": 1,
+      "Neck Referral": 1,
+      "Interscapular": 1,
+      "Thoracic Spine": 1,
+      "Age": "All Age Groups"
+    },
+    "ACJ": {
+      "Superior Shoulder": 1,
+      "Neck Referral": 1,
+      "Age": "All Age Groups"
+    },
+    "Clavicle": {
+      "Anterior Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Age": "All Age Groups",
+      "Neck Referral": 1
+    },
+    "Levator Scapulae": {
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Neck Referral": 1,
+      "Interscapular": 1,
+      "Thoracic Spine": 1,
+      "Age": "All Age Groups"
+    },
+    "Pectoralis Major": {
+      "Anterior Shoulder": 1,
+      "Axilla": 1,
+      "Below Shoulder Tip": 1,
+      "Age": "All Age Groups"
+    },
+    "Pectoralis Minor": {
+      "Anterior Shoulder": 1,
+      "Axilla": 1,
+      "Below Shoulder Tip": 1,
+      "Age": "All Age Groups"
+    },
+    "Biceps Brachii (Long Head)": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Age": "All Age Groups"
+    },
+    "Latissimus Dorsi": {
+      "Anterior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Axilla": 1,
+      "Interscapular": 1,
+      "Thoracic Spine": 1,
+      "Age": "All Age Groups"
+    },
+    "Rhomboids": {
+      "Posterior Shoulder": 1,
+      "Interscapular": 1,
+      "Thoracic Spine": 1,
+      "Age": "All Age Groups"
+    },
+    "Serratus Anterior": {
+      "Anterior Shoulder": 1,
+      "Axilla": 1,
+      "Thoracic Spine": 1,
+      "Age": "All Age Groups"
+    },
+    "Diaphragm - Left Shoulder": {
+      "Anterior Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Below Shoulder Tip": 0.5,
+      "Age": "All Age Groups"
+    },
+    "Heart (Cardiac Referral) - Left Shoulder": {
+      "Anterior Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Below Shoulder Tip": 0.5,
+      "Below Elbow": 0.5,
+      "Age": "All Age Groups"
+    },
+    "Gallbladder - Right Shoulder": {
+      "Anterior Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Below Shoulder Tip": 0.5,
+      "Age": "All Age Groups"
+    },
+    "Liver - Right Shoulder": {
+      "Anterior Shoulder": 0.5,
+      "Lateral Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Posterior Shoulder": 0.5,
+      "Below Shoulder Tip": 1,
+      "Age": "All Age Groups"
+    },
+    "Spleen - Left Shoulder": {
+      "Anterior Shoulder": 0.5,
+      "Lateral Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Posterior Shoulder": 0.5,
+      "Below Shoulder Tip": 1,
+      "Age": "All Age Groups"
+    },
+    "Pancreas - Left Shoulder": {
+      "Anterior Shoulder": 0.5,
+      "Lateral Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Posterior Shoulder": 0.5,
+      "Interscapular": 1,
+      "Age": "All Age Groups"
+    },
+    "Esophagus - Interscapular area": {
+      "Anterior Shoulder": 0.5,
+      "Lateral Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Posterior Shoulder": 0.5,
+      "Interscapular": 1,
+      "Age": "All Age Groups"
+    },
+    "Stomach (Peptic Ulcer) - Left Shoulder": {
+      "Anterior Shoulder": 0.5,
+      "Lateral Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Posterior Shoulder": 0.5,
+      "Age": "All Age Groups"
+    },
+    "Kidneys - Interscapular area": {
+      "Anterior Shoulder": 0.5,
+      "Lateral Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Posterior Shoulder": 0.5,
+      "Interscapular": 1,
+      "Age": "All Age Groups"
+    },
+    "Lungs (Pleurisy) - Left Shoulder": {
+      "Anterior Shoulder": 0.5,
+      "Lateral Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Posterior Shoulder": 0.5,
+      "Thoracic Spine": 1,
+      "Age": "All Age Groups"
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Axilla": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Age": "All Age Groups"
+    },
+    "Shoulder Instability": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Axilla": 1,
+      "Age": "All Age Groups"
+    },
+    "Internal Impingement": {
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Age": "Young Adult"
+    },
+    "Cx Nerve Root Impingement": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Neck Referral": 1,
+      "Interscapular": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Below Wrist": 1,
+      "Age": "Middle Aged/Elderly"
+    },
+    "Frozen Shoulder": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Below Wrist": 1,
+      "Age": "Middle Aged/Elderly"
+    },
+    "GHJ OA": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Below Wrist": 1,
+      "Age": "Elderly"
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "Lateral Shoulder": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Below Wrist": 1,
+      "Age": "All Age Groups"
+    },
+    "SLAP Tear": {
+      "Anterior Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Age": "Young Adult"
+    },
+    "Labral Tear": {
+      "Anterior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Age": "Middle Aged"
+    },
+    "Visceral Referred": {
+      "Anterior Shoulder": 0.5,
+      "Superior Shoulder": 0.5,
+      "Interscapular": 0.5,
+      "Below Shoulder Tip": 0.5,
+      "Below Elbow": 0.5,
+      "Age": "All Age Groups"
+    },
+    "Axillary Nerve": {
+      "Lateral Shoulder": 1,
+      "Age": "All Age Groups"
+    },
+    "Suprascapular Nerve": {
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Age": "All Age Groups"
+    },
+    "Long Thoracic Nerve": {
+      "Anterior Shoulder": 1,
+      "Axilla": 1,
+      "Age": "All Age Groups"
+    },
+    "Thoracic Outlet Syndrome": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Neck Referral": 1,
+      "Axilla": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Below Wrist": 1,
+      "Age": "All Age Groups"
+    },
+    "Calcific Tendinopathy": {
+      "Anterior Shoulder": 1,
+      "Lateral Shoulder": 1,
+      "Superior Shoulder": 1,
+      "Posterior Shoulder": 1,
+      "Axilla": 1,
+      "Below Shoulder Tip": 1,
+      "Below Elbow": 1,
+      "Age": "Middle Aged"
+    }
+  },
+  "Q2": {
+    "Supraspinatus": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1
+    },
+    "Subscapularis": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1
+    },
+    "Infraspinatus": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1
+    },
+    "Teres Minor/Major": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1
+    },
+    "Rotator Cuff FT Tear": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1,
+      "Apprehension": 1
+    },
+    "Cervical Spine (C4-C6)": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Tingling": 3,
+      "Numbness": 3,
+      "Burning": 3,
+      "Ache": 1,
+      "Shooting": 1,
+      "Pins and needles": 3
+    },
+    "Thoracic Spine (T1-T4)": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Tightness": 1
+    },
+    "Cervical Disc Pathology": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Tingling": 3,
+      "Numbness": 3,
+      "Burning": 3,
+      "Ache": 1,
+      "Tightness": 1,
+      "Shooting": 1,
+      "Pins and needles": 3
+    },
+    "Trapezius": {
+      "Pain": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Tightness": 1
+    },
+    "ACJ": {
+      "Pain": 1,
+      "Ache": 1,
+      "Stiffness": 1,
+      "Catching/clicking": 1,
+      "Instability": 1,
+      "Weakness": 1,
+      "Sharp": 1
+    },
+    "Clavicle": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Ache": 1,
+      "Catching/clicking": 1,
+      "Apprehension": 1,
+      "Instability": 1,
+      "Sharp": 1,
+      "Stiffness": 1
+    },
+    "Levator Scapulae": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Tightness": 1
+    },
+    "Pectoralis Major": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Apprehension": 1,
+      "Instability": 1
+    },
+    "Pectoralis Minor": {
+      "Pain": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Tightness": 1
+    },
+    "Biceps Brachii (Long Head)": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Shooting": 1
+    },
+    "Latissimus Dorsi": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Ache": 1,
+      "Tightness": 1
+    },
+    "Rhomboids": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Ache": 1,
+      "Tightness": 1
+    },
+    "Serratus Anterior": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Ache": 1,
+      "Catching/clicking": 1,
+      "Instability": 1
+    },
+    "Diaphragm - Left Shoulder": {
+      "Pain": 0.5,
+      "Ache": 0.5
+    },
+    "Heart (Cardiac Referral) - Left Shoulder": {
+      "Pain": 0.5
+    },
+    "Gallbladder - Right Shoulder": {
+      "Pain": 0.5
+    },
+    "Liver - Right Shoulder": {
+      "Pain": 0.5
+    },
+    "Spleen - Left Shoulder": {
+      "Pain": 0.5
+    },
+    "Pancreas - Left Shoulder": {
+      "Pain": 0.5
+    },
+    "Esophagus - Interscapular area": {
+      "Pain": 0.5
+    },
+    "Stomach (Peptic Ulcer) - Left Shoulder": {
+      "Pain": 0.5
+    },
+    "Kidneys - Interscapular area": {
+      "Pain": 0.5
+    },
+    "Lungs (Pleurisy) - Left Shoulder": {
+      "Pain": 0.5
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1
+    },
+    "Shoulder Instability": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Numbness": 1,
+      "Ache": 1,
+      "Subluxation/Dislcoation": 5,
+      "Apprehension": 3,
+      "Instability": 3
+    },
+    "Internal Impingement": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1
+    },
+    "Cx Nerve Root Impingement": {
+      "Pain": 1,
+      "Weakness": 2,
+      "Tingling": 3,
+      "Numbness": 3,
+      "Sharp": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Pins and needles": 3
+    },
+    "Frozen Shoulder": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Tightness": 1,
+      "Shooting": 1,
+      "Stiffness": 3,
+      "Locking": 2
+    },
+    "GHJ OA": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Tightness": 1,
+      "Shooting": 1,
+      "Stiffness": 1,
+      "Locking": 1
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Tingling": 2,
+      "Numbness": 2,
+      "Sharp": 1,
+      "Burning": 2,
+      "Ache": 1,
+      "Shooting": 1,
+      "Pins and needles": 2,
+      "Colour/temperature changes": 2
+    },
+    "SLAP Tear": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Subluxation/Dislcoation": 1,
+      "Catching/clicking": 2,
+      "Apprehension": 1,
+      "Instability": 1
+    },
+    "Labral Tear": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Sharp": 1,
+      "Ache": 1,
+      "Subluxation/Dislcoation": 1,
+      "Catching/clicking": 2,
+      "Apprehension": 1,
+      "Instability": 1
+    },
+    "Visceral Referred": {
+      "Pain": 0.5,
+      "Ache": 0.5
+    },
+    "Axillary Nerve": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Tingling": 1,
+      "Numbness": 2,
+      "Pins and needles": 1
+    },
+    "Suprascapular Nerve": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Tingling": 1,
+      "Numbness": 1,
+      "Pins and needles": 1
+    },
+    "Long Thoracic Nerve": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Tingling": 1,
+      "Numbness": 1,
+      "Pins and needles": 1
+    },
+    "Thoracic Outlet Syndrome": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Tingling": 1,
+      "Numbness": 1,
+      "Burning": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Pins and needles": 1,
+      "Colour/temperature changes": 1
+    },
+    "Calcific Tendinopathy": {
+      "Pain": 1,
+      "Weakness": 1,
+      "Ache": 1,
+      "Shooting": 1,
+      "Catching/clicking": 1
+    }
+  },
+  "Q3": {
+    "Supraspinatus": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Subscapularis": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Infraspinatus": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Teres Minor/Major": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Rotator Cuff FT Tear": {
+      "4-7 = moderate": 1,
+      ">8 = severe": 2
+    },
+    "Cervical Spine (C4-C6)": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Thoracic Spine (T1-T4)": {
+      "</=3 = low": 1
+    },
+    "Cervical Disc Pathology": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Trapezius": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "ACJ": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Clavicle": {
+      "4-7 = moderate": 1,
+      ">8 = severe": 2
+    },
+    "Levator Scapulae": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Pectoralis Major": {
+      ">8 = severe": 1
+    },
+    "Biceps Brachii (Long Head)": {
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Latissimus Dorsi": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Rhomboids": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Serratus Anterior": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Diaphragm - Left Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Heart (Cardiac Referral) - Left Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5,
+      ">8 = severe": 0.5
+    },
+    "Gallbladder - Right Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Liver - Right Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Spleen - Left Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Pancreas - Left Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Esophagus - Interscapular area": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Stomach (Peptic Ulcer) - Left Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Kidneys - Interscapular area": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Lungs (Pleurisy) - Left Shoulder": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Shoulder Instability": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 2
+    },
+    "Internal Impingement": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Cx Nerve Root Impingement": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 2
+    },
+    "Frozen Shoulder": {
+      "4-7 = moderate": 1,
+      ">8 = severe": 2
+    },
+    "GHJ OA": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "SLAP Tear": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Labral Tear": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Visceral Referred": {
+      "</=3 = low": 0.5,
+      "4-7 = moderate": 0.5
+    },
+    "Axillary Nerve": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Suprascapular Nerve": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Long Thoracic Nerve": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1
+    },
+    "Thoracic Outlet Syndrome": {
+      "</=3 = low": 1,
+      "4-7 = moderate": 1,
+      ">8 = severe": 1
+    },
+    "Calcific Tendinopathy": {
+      "4-7 = moderate": 1,
+      ">8 = severe": 2
+    }
+  },
+  "Q4": {
+    "Supraspinatus": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Subscapularis": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Infraspinatus": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Teres Minor/Major": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Rotator Cuff FT Tear": {
+      "moderate": 1,
+      "severe": 1,
+      "low": 1
+    },
+    "Cervical Spine (C4-C6)": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Thoracic Spine (T1-T4)": {
+      "low": 1,
+      "moderate": 1
+    },
+    "Cervical Disc Pathology": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Trapezius": {
+      "low": 1,
+      "moderate": 1
+    },
+    "ACJ": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Clavicle": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Levator Scapulae": {
+      "low": 1,
+      "moderate": 1
+    },
+    "Pectoralis Major": {
+      "moderate": 1,
+      "severe": 1
+    },
+    "Biceps Brachii (Long Head)": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Latissimus Dorsi": {
+      "low": 1,
+      "moderate": 1
+    },
+    "Rhomboids": {
+      "low": 1,
+      "moderate": 1
+    },
+    "Serratus Anterior": {
+      "low": 1,
+      "moderate": 1
+    },
+    "Diaphragm - Left Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Heart (Cardiac Referral) - Left Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5,
+      "severe": 1
+    },
+    "Gallbladder - Right Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Liver - Right Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Spleen - Left Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Pancreas - Left Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Esophagus - Interscapular area": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Stomach (Peptic Ulcer) - Left Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Kidneys - Interscapular area": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Lungs (Pleurisy) - Left Shoulder": {
+      "low": 0.5,
+      "moderate": 0.5
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Shoulder Instability": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Internal Impingement": {
+      "low": 1,
+      "moderate": 1
+    },
+    "Cx Nerve Root Impingement": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 2
+    },
+    "Frozen Shoulder": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "GHJ OA": {
+      "low": 1,
+      "moderate": 1
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "SLAP Tear": {
+      "moderate": 1,
+      "severe": 1
+    },
+    "Labral Tear": {
+      "moderate": 1,
+      "severe": 1
+    },
+    "Visceral Referred": {
+      "low": 0.5
+    },
+    "Axillary Nerve": {
+      "low": 1
+    },
+    "Suprascapular Nerve": {
+      "low": 1
+    },
+    "Long Thoracic Nerve": {
+      "low": 1
+    },
+    "Thoracic Outlet Syndrome": {
+      "low": 1,
+      "moderate": 1,
+      "severe": 1
+    },
+    "Calcific Tendinopathy": {
+      "moderate": 1,
+      "severe": 1
+    }
+  },
+  "Q5": {
+    "Supraspinatus": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Hand behind the back": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Subscapularis": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Hand behind the back": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Infraspinatus": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Hand behind the back": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Teres Minor/Major": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Hand behind the back": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Rotator Cuff FT Tear": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Apprehenive to move arm due to pain/stability": 1,
+      "Hand behind the back": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1,
+      "Severe stiffness/pain": 1,
+      "Reaching across your body": 1
+    },
+    "Cervical Spine (C4-C6)": {
+      "Lifting arm away to the side of the body": 1,
+      "Hitching/shruggin your shoulder blade": 1,
+      "Sustained neck/postures": 1,
+      "Seatbelt": 1,
+      "Traction": 1,
+      "Neck or back triggers of shoulder pain": 1
+    },
+    "Thoracic Spine (T1-T4)": {
+      "Sustained neck/postures": 1,
+      "Neck or back triggers of shoulder pain": 1,
+      "Respiratory/breathing/deep breath": 1
+    },
+    "Cervical Disc Pathology": {
+      "Lifting arm away to the side of the body": 1,
+      "Hitching/shruggin your shoulder blade": 1,
+      "Sustained neck/postures": 1,
+      "Seatbelt": 1,
+      "Traction": 1,
+      "Neck or back triggers of shoulder pain": 1
+    },
+    "Trapezius": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Hitching/shruggin your shoulder blade": 1,
+      "Sustained neck/postures": 1,
+      "Seatbelt": 1,
+      "Traction": 1,
+      "Neck or back triggers of shoulder pain": 1
+    },
+    "ACJ": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Apprehenive to move arm due to pain/stability": 1,
+      "Hand behind the back": 1,
+      "Reaching across your body": 2,
+      "Lying on the arm": 2,
+      "Lifting weights": 1,
+      "Hitching/shruggin your shoulder blade": 2,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Seatbelt": 1,
+      "Traction": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 2,
+      "Contact sport - tackle/wrestling/pushing off": 2,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Clavicle": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Feeling of instability": 1,
+      "Apprehenive to move arm due to pain/stability": 1,
+      "Reaching across your body": 1,
+      "Lying on the arm": 1,
+      "Hitching/shruggin your shoulder blade": 1,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 2,
+      "Falling on the arm": 2,
+      "Contact sport - tackle/wrestling/pushing off": 2,
+      "Severe stiffness/pain": 2,
+      "Lifting weights": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Levator Scapulae": {
+      "Overhead activity": 1,
+      "Hitching/shruggin your shoulder blade": 1,
+      "Sustained neck/postures": 1,
+      "Neck or back triggers of shoulder pain": 1
+    },
+    "Pectoralis Major": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Severe stiffness/pain": 1,
+      "Apprehenive to move arm due to pain/stability": 1,
+      "Hand behind the back": 1,
+      "Reaching across your body": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Biceps Brachii (Long Head)": {
+      "Overhead activity": 1,
+      "Twisting/Rotational activity": 1,
+      "Severe stiffness/pain": 1,
+      "Apprehenive to move arm due to pain/stability": 1,
+      "Lifting weights": 1,
+      "Contact sport - tackle/wrestling/pushing off": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Latissimus Dorsi": {
+      "Overhead activity": 1,
+      "Twisting/Rotational activity": 1,
+      "Lifting weights": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Rhomboids": {
+      "Overhead activity": 1,
+      "Hitching/shruggin your shoulder blade": 1,
+      "Sustained neck/postures": 1,
+      "Neck or back triggers of shoulder pain": 1
+    },
+    "Serratus Anterior": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Hand behind the back": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Sustained shoulder positions": 1,
+      "Weightbearing on the arm": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Diaphragm - Left Shoulder": {
+      "Respiratory/breathing/deep breath": 1
+    },
+    "Heart (Cardiac Referral) - Left Shoulder": {
+      "Non-shoulder exertion/stress": 3,
+      "Respiratory/breathing/deep breath": 3
+    },
+    "Gallbladder - Right Shoulder": {
+      "Eating": 3
+    },
+    "Lungs (Pleurisy) - Left Shoulder": {
+      "Respiratory/breathing/deep breath": 1
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "Overhead activity": 2,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Hand behind the back": 1,
+      "Lying on the arm": 2,
+      "Lifting weights": 2,
+      "Sustained shoulder positions": 1,
+      "Steering the car": 1,
+      "Weightbearing on the arm": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 2,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 2
+    },
+    "Shoulder Instability": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Feeling of instability": 3,
+      "Apprehenive to move arm due to pain/stability": 3,
+      "Falling on the arm": 2,
+      "Contact sport - tackle/wrestling/pushing off": 2,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Internal Impingement": {
+      "Overhead activity": 1,
+      "Twisting/Rotational activity": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Cx Nerve Root Impingement": {
+      "Severe stiffness/pain": 3,
+      "Sustained neck/postures": 2,
+      "Neck or back triggers of shoulder pain": 3,
+      "Contact sport - tackle/wrestling/pushing off": 2
+    },
+    "Frozen Shoulder": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Severe stiffness/pain": 3,
+      "Apprehenive to move arm due to pain/stability": 2,
+      "Hand behind the back": 2,
+      "Lying on the arm": 1,
+      "Seatbelt": 2
+    },
+    "GHJ OA": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Severe stiffness/pain": 2,
+      "Hand behind the back": 1,
+      "Lying on the arm": 1
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "Twisting/Rotational activity": 1,
+      "Severe stiffness/pain": 1
+    },
+    "SLAP Tear": {
+      "Overhead activity": 2,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 2,
+      "Feeling of instability": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 2,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 3
+    },
+    "Labral Tear": {
+      "Overhead activity": 2,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 2,
+      "Feeling of instability": 1,
+      "Lying on the arm": 1,
+      "Lifting weights": 1,
+      "Falling on the arm": 1,
+      "Contact sport - tackle/wrestling/pushing off": 2,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 3
+    },
+    "Visceral Referred": {
+      "Non-shoulder exertion/stress": 3,
+      "Eating": 3,
+      "Respiratory/breathing/deep breath": 3
+    },
+    "Axillary Nerve": {
+      "Lifting arm away to the side of the body": 1,
+      "Lifting weights": 1,
+      "Steering the car": 1,
+      "Falling on the arm": 1
+    },
+    "Suprascapular Nerve": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Lifting weights": 1,
+      "Steering the car": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Long Thoracic Nerve": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Lifting weights": 1,
+      "Steering the car": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Thoracic Outlet Syndrome": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Twisting/Rotational activity": 1,
+      "Lifting weights": 1,
+      "Sustained neck/postures": 1,
+      "Overhead sports (eg throwing, swimming, tennis etc)": 1
+    },
+    "Calcific Tendinopathy": {
+      "Overhead activity": 1,
+      "Lifting arm away to the side of the body": 1,
+      "Severe stiffness/pain": 3,
+      "Apprehenive to move arm due to pain/stability": 3,
+      "Lying on the arm": 2
+    }
+  },
+  "Q6": {
+    "Supraspinatus": {
+      "Rest": 1,
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Subscapularis": {
+      "Rest": 1,
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Infraspinatus": {
+      "Rest": 1,
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Teres Minor/Major": {
+      "Rest": 1,
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Rotator Cuff FT Tear": {
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Strengthening exercises": 1,
+      "Rest": 1,
+      "Hands on therapy": 1
+    },
+    "Cervical Spine (C4-C6)": {
+      "Avoiding aggravating activites": 1,
+      "Supporting my arm/sling": 1,
+      "Hands on therapy": 1
+    },
+    "Thoracic Spine (T1-T4)": {
+      "Avoiding aggravating activites": 1,
+      "Hands on therapy": 1
+    },
+    "Cervical Disc Pathology": {
+      "Avoiding aggravating activites": 1,
+      "Supporting my arm/sling": 1,
+      "Hands on therapy": 1
+    },
+    "Trapezius": {
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "ACJ": {
+      "Rest": 1,
+      "Avoiding aggravating activites": 1,
+      "Supporting my arm/sling": 1,
+      "Anti inflammatories": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Clavicle": {
+      "Avoiding aggravating activites": 1,
+      "Supporting my arm/sling": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Rest": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Levator Scapulae": {
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Pectoralis Major": {
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Pectoralis Minor": {
+      "Hands on therapy": 1
+    },
+    "Biceps Brachii (Long Head)": {
+      "Rest": 1,
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Latissimus Dorsi": {
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Rhomboids": {
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Serratus Anterior": {
+      "Ice": 1,
+      "Heat": 1,
+      "Strengthening exercises": 1
+    },
+    "Heart (Cardiac Referral) - Left Shoulder": {
+      "Rest": 1
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "Rest": 1,
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Heat": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Shoulder Instability": {
+      "Avoiding aggravating activites": 1,
+      "Supporting my arm/sling": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Internal Impingement": {
+      "Avoiding aggravating activites": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Cx Nerve Root Impingement": {
+      "Supporting my arm/sling": 1,
+      "Anti inflammatories": 1,
+      "Hands on therapy": 1,
+      "Other medications are helping relieve/manage my symptoms": 1
+    },
+    "Frozen Shoulder": {
+      "Ice": 1,
+      "Hands on therapy": 1
+    },
+    "GHJ OA": {
+      "Anti inflammatories": 1,
+      "Hands on therapy": 1
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "Ice": 1,
+      "Hands on therapy": 1,
+      "Other medications are helping relieve/manage my symptoms": 1
+    },
+    "SLAP Tear": {
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Labral Tear": {
+      "Avoiding aggravating activites": 1,
+      "Ice": 1,
+      "Hands on therapy": 1,
+      "Strengthening exercises": 1
+    },
+    "Axillary Nerve": {
+      "Other medications are helping relieve/manage my symptoms": 1
+    },
+    "Suprascapular Nerve": {
+      "Other medications are helping relieve/manage my symptoms": 1
+    },
+    "Long Thoracic Nerve": {
+      "Other medications are helping relieve/manage my symptoms": 1
+    },
+    "Thoracic Outlet Syndrome": {
+      "Anti inflammatories": 1,
+      "Hands on therapy": 1
+    },
+    "Calcific Tendinopathy": {
+      "Rest": 1,
+      "Anti inflammatories": 1
+    }
+  },
+  "Q7": {
+    "Supraspinatus": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Subscapularis": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Infraspinatus": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Teres Minor/Major": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1
+    },
+    "Rotator Cuff FT Tear": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1,
+      "I have a family history of this injury": 1
+    },
+    "Cervical Spine (C4-C6)": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Thoracic Spine (T1-T4)": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1
+    },
+    "Cervical Disc Pathology": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1,
+      "I have a family history of this injury": 1
+    },
+    "Trapezius": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1
+    },
+    "ACJ": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Clavicle": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Levator Scapulae": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1
+    },
+    "Pectoralis Major": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Pectoralis Minor": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1
+    },
+    "Biceps Brachii (Long Head)": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Latissimus Dorsi": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1
+    },
+    "Rhomboids": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1
+    },
+    "Serratus Anterior": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1
+    },
+    "Diaphragm - Left Shoulder": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1
+    },
+    "Heart (Cardiac Referral) - Left Shoulder": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Gallbladder - Right Shoulder": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Liver - Right Shoulder": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Spleen - Left Shoulder": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5,
+      "I've had recent surgery for this problem": 0.5
+    },
+    "Pancreas - Left Shoulder": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Esophagus - Interscapular area": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Stomach (Peptic Ulcer) - Left Shoulder": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Kidneys - Interscapular area": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Lungs (Pleurisy) - Left Shoulder": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "Trauma": 0.5,
+      "Atraumatic": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had scans for this injury (XR/US/MRI)": 0.5
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Shoulder Instability": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Internal Impingement": {
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1
+    },
+    "Cx Nerve Root Impingement": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1
+    },
+    "Frozen Shoulder": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "GHJ OA": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1,
+      "I have a family history of this injury": 1
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1
+    },
+    "SLAP Tear": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Labral Tear": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Visceral Referred": {
+      "Acute (<2/52)": 0.5,
+      "Sub acute (2-12/52)": 0.5,
+      "Chronic (>3/12)": 0.5,
+      "This is a brand new problem (never had it before) = new injury": 0.5,
+      "I've had this before = recurrent": 0.5
+    },
+    "Axillary Nerve": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Suprascapular Nerve": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Long Thoracic Nerve": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Thoracic Outlet Syndrome": {
+      "Acute (<2/52)": 1,
+      "Sub acute (2-12/52)": 1,
+      "Chronic (>3/12)": 1,
+      "Trauma": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had this before = recurrent": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1,
+      "I've had recent surgery for this problem": 1
+    },
+    "Calcific Tendinopathy": {
+      "Acute (<2/52)": 1,
+      "Atraumatic": 1,
+      "This is a brand new problem (never had it before) = new injury": 1,
+      "I've had scans for this injury (XR/US/MRI)": 1
+    }
+  }
+}
