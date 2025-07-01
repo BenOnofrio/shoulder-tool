@@ -61,10 +61,16 @@
     frag.appendChild(fs);
   });
 
-  /* ---------- 5. “Calculate” button + result panel ---------- */
-  frag.insertAdjacentHTML('beforeend',
-    `<button id="calc">Calculate</button><div id="results"></div>`
-  );
+  /* 4. “Calculate” button + result panel */
+const calc     = document.createElement('button');
+calc.id        = 'calc';
+calc.textContent = 'Calculate';
+
+const results  = document.createElement('div');
+results.id     = 'results';
+
+frag.append(calc, results);
+
   root.appendChild(frag);
 
   /* ---------- 6. Scoring engine ---------- */
