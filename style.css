@@ -1,0 +1,44 @@
+/* shoulder-tool/style.css – minimal starter */
+
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 1rem;
+  background: #f7f7f7;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  background: #fff;
+}
+
+legend {
+  font-weight: 600;
+  padding: 0 .5rem;
+}
+
+.option-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1rem;
+  margin-top: .5rem;
+}
+
+#calc {
+  display: block;
+  margin: 1.5rem 0;
+  padding: .6rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  background: #007aff;
+  color: #fff;
+}
+
+#results h2 {
+  margin-top: 1.5rem;
+}
