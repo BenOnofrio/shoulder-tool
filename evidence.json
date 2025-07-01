@@ -1,0 +1,294 @@
+{
+  "somatic_sources": {
+    "Somatic Source": {
+      "type": "Somatic Source",
+      "subjective": "Subjective Findings",
+      "objective": "Objective Findings",
+      "tests": ""
+    },
+    "Supraspinatus": {
+      "type": "Somatic Source",
+      "subjective": "Painful arc between 60\u00b0-120\u00b0 abduction. Pain with resisted abduction. Pain with posterior cuff stretching. All Age Groups",
+      "objective": "Painful arc between 60\u00b0-120\u00b0 abduction. Pain with resisted abduction. Pain with posterior cuff stretching. All Age Groups",
+      "tests": "Empty Can Test (PT Tear) Empty Can Test (FT Tear) Full Can Test (Pain) Full Can Test (Weakness) Painful Arc Test (SSp) Neer's Test Drop Arm Test External Rotation Lag Sign"
+    },
+    "Subscapularis": {
+      "type": "Somatic Source",
+      "subjective": "Pain with resisted internal rotation. Pain may radiate to lateral upper arm. Pain with external rotation or stretching. All Age Groups",
+      "objective": "Pain with resisted internal rotation. Pain may radiate to lateral upper arm. Pain with external rotation or stretching. All Age Groups",
+      "tests": "Lift-Off Test. Belly Press Test. Bear Hug. IR Lag Sign. Internal Rotation Strength Testing."
+    },
+    "Infraspinatus": {
+      "type": "Somatic Source",
+      "subjective": "Pain with resisted external rotation. Pain with cross-body adduction. Pain with overhead activity. All Age Groups",
+      "objective": "Pain with resisted external rotation. Pain with cross-body adduction. All Age Groups",
+      "tests": "External Rotation Strength Testing (Pain). External Rotation Strength Testing (Weakness). ER Lag Sign."
+    },
+    "Teres Minor/Major": {
+      "type": "Somatic Source",
+      "subjective": "Pain with resisted external rotation. Pain with overhead activity. All Age Groups",
+      "objective": "Pain with resisted external rotation or extension. All Age Groups",
+      "tests": "Hornblower's Sign. External Rotation Lag Test."
+    },
+    "Rotator Cuff FT Tear": {
+      "type": "Somatic Source",
+      "subjective": "Secondary to trauma/incident. Drop Arm Sign or Lag Signs. Middle Aged/Elderly",
+      "objective": "Positive ER/IR Lag Sign, Drop Arm Sign, Hornblowers Sign. Middle Aged/Elderly",
+      "tests": ""
+    },
+    "Cervical Spine (C4-C6)": {
+      "type": "Somatic Source",
+      "subjective": "Neck pain that reproduces shoulder pain. Mid cervical spine stiffness +/- pain. Clowards Sign. Middle Aged Cervical Spine",
+      "objective": "Spurling's. Axial Manual Traction. Weakness of resisted Shoulder Abduction",
+      "tests": ""
+    },
+    "Thoracic Spine (T1-T4)": {
+      "type": "Somatic Source",
+      "subjective": "Upper thoracic stiffness with anterior chest pain. Deep referred pain between scapulae. Pain radiating from upper thoracic region. Stiffness in upper thoracic region. Middle Aged",
+      "objective": "Upper thoracic stiffness with anterior chest pain. Deep referred pain between scapulae. Middle Aged",
+      "tests": "Thoracic Spine ROM Testing. PA Mobilization Th. SSMP Thoracic Extension. Slump Test. Palpation"
+    },
+    "Cervical Disc Pathology": {
+      "type": "Somatic Source",
+      "subjective": "Anterior shoulder pain with radicular signs. Pain radiates down upper arm. Pain radiates into posterior shoulder blade. Neck stiffness with radiculopathy. Pain radiating into scapula (Clowards Sign). Pain referred into upper thoracic region Pain may radiate into lower arm/forearm Radiculopathy into hand/fingers. Middle Aged/Elderly",
+      "objective": "Anterior shoulder pain with radicular signs. Pain radiates into posterior shoulder blade. Neck stiffness with nerve root compression. Pain may radiate into lower arm/forearm. Radiculopathy into hand/fingers. Middle Aged/Elderly",
+      "tests": ""
+    },
+    "Trapezius": {
+      "type": "Somatic Source",
+      "subjective": "Pain with overhead arm movement. Tightness pain at base of neck. Pain radiating from neck tension-related. Pain along scapular region. Thoracic spine tightness. All Age Groups",
+      "objective": "Pain with overhead arm movement. Tightness pain at base of neck. Pain radiating from neck tension-related. Pain along scapular region. Thoracic spine tightness. Pain on shrug or lateral raise. All Age Groups",
+      "tests": "Scapular Assistance Test. Resisted Scapular Elevation. Palpation. Resisted Shoulder Shrug. Cervical ROM. Cervical Compression Test. Scapular Retraction Test. Thoracic ROM. Scapular Mobility Tests."
+    },
+    "ACJ": {
+      "type": "Somatic Source",
+      "subjective": "Direct trauma/incident to ACJ. Tackle, FOOSH, Degenerative changes on imaging. Ovheread pressing. Cross-body adduction aggravates. All Age Groups ACJ",
+      "objective": "TOP. O'Briens. Paxinos. Cross Body Adduction. AC Resisted Horizontal Extension. All Age Groups",
+      "tests": ""
+    },
+    "Clavicle": {
+      "type": "Somatic Source",
+      "subjective": "Secondary to trauma/incident (FOOSH, MBA/MVA, Sport). All Age Groups",
+      "objective": "AROM >90 deg painful, Defomity on observation. All Age Groups",
+      "tests": ""
+    },
+    "Levator Scapulae": {
+      "type": "Somatic Source",
+      "subjective": "Pain with shoulder elevation especially overhead. Pain along medial border of scapula. Pain worsened with cervical movement. All Age Groups",
+      "objective": "Pain with shoulder elevation especially overhead. Pain along medial border of scapula. Pain worsened with cervical movement. All Age Groups",
+      "tests": "Resisted Shoulder Elevation. Palpation. Cervical Compression Test. Resisted Shoulder Shrug. Cervical ROM."
+    },
+    "Pectoralis Major": {
+      "type": "Somatic Source",
+      "subjective": "Pain with resisted adduction.  Bench pressing. Pain with palpation near axilla. Bruising depeding on severity of tear. All Age Groups",
+      "objective": "Pain with resisted adduction and bench pressing. Pain with palpation near axilla. All Age Groups",
+      "tests": ""
+    },
+    "Pectoralis Minor": {
+      "type": "Somatic Source",
+      "subjective": "All Age Groups",
+      "objective": "Pectoralis Minor All Age Groups",
+      "tests": ""
+    },
+    "Biceps Brachii (Long Head)": {
+      "type": "Somatic Source",
+      "subjective": "Tenderness over bicipital groove. Pain with elbow flexion. Pain with upper cut. Pain with lifting objects. Pain with resisted supination. Pain may radiate distally in biceps area. All Age Groups. Biceps Palpation of the Long Head Speed Yergason Upper Cut",
+      "objective": "Pop-eye Sign if ruptured. Tenderness over bicipital groove pain with elbow flexion. Pain with lifting objects resisted supination. Pain may radiate distally in biceps area. Upper Cut Test. All Age Groups",
+      "tests": "Speed's Test. Yergason's Test. Palpation of bicipital groove. Resisted Supination Test."
+    },
+    "Latissimus Dorsi": {
+      "type": "Somatic Source",
+      "subjective": "Pain or weakness with resisted extension or adduction. Possible tightness around the lateral border scapula or posterior shoulder/tricep insertion. All Age Groups",
+      "objective": "Pain with resisted extension or adduction. Pain or weakness with resisted adduction. Possible tightness around scapula/axilla/posterior shoulder. All Age Groups",
+      "tests": "Resisted Shoulder Extension. Palpation Resisted Shoulder Adduction."
+    },
+    "Rhomboids": {
+      "type": "Somatic Source",
+      "subjective": "Deep dull ache along scapular border. Pain along medial scapular border. Tension in mid-back. All Age Groups",
+      "objective": "Deep dull ache along scapular border. Pain along medial scapular border. Tension in mid-back. All Age Groups",
+      "tests": ""
+    },
+    "Serratus Anterior": {
+      "type": "Somatic Source",
+      "subjective": "Pain with overhead activities. Scapular winging. Pain with overhead or scapular movements. Pain into axilla region. All Age Groups",
+      "objective": "Pain with overhead activities. Scapular winging. Pain with overhead or scapular movements. Pain into axilla region. All Age Groups",
+      "tests": "Wall Push-Up Test. Scapular Winging Observation. Scapular Assistance Test. Push-Up Test"
+    },
+    "Diaphragm": {
+      "type": "Somatic Source",
+      "subjective": "Pain related to deep breathing or abdominal issues. Shoulder tip pain worse with breathing or coughing.\\ All Age Groups",
+      "objective": "Pain on vsiceral palpation, deep breath, cough.",
+      "tests": "Murphy's sign palpation of abdomen. Sniff Test. Phrenic Nerve Stretch Test. Kehr's sign"
+    },
+    "Heart (Cardiac Referral)": {
+      "type": "Somatic Source",
+      "subjective": "Left shoulder pain may be pressure-like. Pain or discomfort with exertion. Referred pain into left arm in acute cardiac event. All Age Groups",
+      "objective": "Refer on if suspicious for immediate medical assessment - ECG, Blood Markers, Exercise Stress Test",
+      "tests": "Vital Signs - Cardiac Auscultation. Referral to cardiology"
+    },
+    "Gallbladder": {
+      "type": "Somatic Source",
+      "subjective": "Right shoulder pain worse after eating fatty foods. Pain radiating to right shoulder tip. Pain below right shoulder tip. All Age Groups",
+      "objective": "Pain on visceral palpation. All Age Groups",
+      "tests": "Murphy's Sign palpation of right upper quadrant. Referred Pain on Inspiration. Abdominal Palpation"
+    },
+    "Liver": {
+      "type": "Somatic Source",
+      "subjective": "Right anterior shoulder pain. Pain at right shoulder tip. Pain below right shoulder tip. All Age Groups",
+      "objective": "Pain on visceral palpation. All Age Groups",
+      "tests": "Abdominal Palpation. Percussion. Murphy's Sign."
+    },
+    "Spleen": {
+      "type": "Somatic Source",
+      "subjective": "Left shoulder pain - possible spleen rupture. Pain near shoulder tip. All Age Groups",
+      "objective": "Pain on visceral palpation. All Age Groups",
+      "tests": "Kehr's Sign. Abdominal Palpation."
+    },
+    "Pancreas": {
+      "type": "Somatic Source",
+      "subjective": "Midline to left shoulder pain deep ache. Pain referred to thoracic spine. All Age Groups",
+      "objective": "Pain on visceral palpation. All Age Groups",
+      "tests": "Abdominal Palpation. Blood Work"
+    },
+    "Esophagus": {
+      "type": "Somatic Source",
+      "subjective": "Referred anterior chest pain. GORD-related. Referred pain into thoracic spine. All Age Groups",
+      "objective": "Refer on if suspicious for immediate medical assessment",
+      "tests": "Esophageal Reflux Test. Swallowing Assessment."
+    },
+    "Stomach (Peptic Ulcer)": {
+      "type": "Somatic Source",
+      "subjective": "Anterior shoulder pain due to referred GI pain. All Age Groups",
+      "objective": "Refer on if suspicious for immediate medical assessment",
+      "tests": "Abdominal Palpation. Gastroscopy Referral."
+    },
+    "Kidneys": {
+      "type": "Somatic Source",
+      "subjective": "Pain in flank or lower shoulder. Possible referral to lower scapular region. Pain may refer to lower abdomen. Pain may radiate down lateral arm. All Age Groups",
+      "objective": "Pain on visceral palpation. All Age Groups",
+      "tests": "Murphy's Punch Test. Urinalysis"
+    },
+    "Lungs (Pleurisy)": {
+      "type": "Somatic Source",
+      "subjective": "Pain with deep breathing may radiate to shoulder tip. Possible thoracic spine pain. Pain worsens with breathing. All Age Groups",
+      "objective": "Refer on if suspicious for immediate medical assessment",
+      "tests": "Chest Expansion Test. Auscultation Percussion."
+    }
+  },
+  "clinical_patterns": {
+    "Clinical Patterns": {
+      "type": "Clinical Pattern",
+      "subjective": "Subjective",
+      "objective": "",
+      "tests": ""
+    },
+    "Rotator Cuff Related Shoulder Pain": {
+      "type": "Clinical Pattern",
+      "subjective": "Anterolateral arm pain; Pain can radiate into upper arm; Dull ache in shoulder",
+      "objective": "",
+      "tests": ""
+    },
+    "Shoulder Instability": {
+      "type": "Clinical Pattern",
+      "subjective": "Consider direction of subluxation/dislcoation/MDI; Pain and/or apprehension; Anterior instability - worse in Abd/ER positions",
+      "objective": "",
+      "tests": ""
+    },
+    "Internal Impingement": {
+      "type": "Clinical Pattern",
+      "subjective": "Posterior-superior shoulder pain in abduction/external rotation eg throwing athletes; Sharp pain; Worse with overhead activities",
+      "objective": "",
+      "tests": ""
+    },
+    "Cx Nerve Root Impingement": {
+      "type": "Clinical Pattern",
+      "subjective": "Neck pain; Tingling/numbness/paraesthesia down arm; Acute vs chronic onset?",
+      "objective": "",
+      "tests": ""
+    },
+    "Frozen Shoulder": {
+      "type": "Clinical Pattern",
+      "subjective": "Generalised shoulder pain and progressive loss of range; PMHx: Post op? T2DM? Trauma?; Pain vs stiffness dominant phase?",
+      "objective": "",
+      "tests": ""
+    },
+    "GHJ OA": {
+      "type": "Clinical Pattern",
+      "subjective": "Diffuse shoulder pain, stiffness; Stiffness; Limited AROM/PROM",
+      "objective": "",
+      "tests": ""
+    },
+    "ACJ": {
+      "type": "Clinical Pattern",
+      "subjective": "Localised pain to ACJ; Traumatic episode - tackle, fell directly onto shoulder; Atraumatic (DCE) - gym junkie (bench press+++ OH press+++)",
+      "objective": "",
+      "tests": ""
+    },
+    "Clavicle": {
+      "type": "Clinical Pattern",
+      "subjective": "Acute painful episode; Visibile defomity; Limited AROM",
+      "objective": "",
+      "tests": ""
+    },
+    "Perihperal Nerve (Median/Radial/Ulnar)": {
+      "type": "Clinical Pattern",
+      "subjective": "Perihperal Nerve (Median/Radial/Ulnar), All Age Groups; Myotomal/dermatomal distribution?; Intermittent neural symptoms (compared to constant with nerve root)",
+      "objective": "",
+      "tests": ""
+    },
+    "SLAP": {
+      "type": "Clinical Pattern",
+      "subjective": "Overhead athlete; Usually comlain of losing power/velocity; Acute traumatic episode",
+      "objective": "",
+      "tests": ""
+    },
+    "Labral Tear": {
+      "type": "Clinical Pattern",
+      "subjective": "Overhead athlete; Usually comlain of losing power/velocity; Acute traumatic episode",
+      "objective": "",
+      "tests": ""
+    },
+    "Rotator Cuff FT Tear": {
+      "type": "Clinical Pattern",
+      "subjective": "Traumatic episode (lifting, FOOSH, MVA); Weakness++",
+      "objective": "",
+      "tests": ""
+    },
+    "Visceral Referred": {
+      "type": "Clinical Pattern",
+      "subjective": "Visceral Referred, All Age Groups",
+      "objective": "",
+      "tests": ""
+    },
+    "Axillary Nerve": {
+      "type": "Clinical Pattern",
+      "subjective": "Badge sign numbness secondary to shoulder dislocation; Weaknes sin abduction; Deltoid atrophy?",
+      "objective": "",
+      "tests": ""
+    },
+    "Suprascapular Nerve": {
+      "type": "Clinical Pattern",
+      "subjective": "Posterior shoulder pain with weakness; Infraspinatus/Supraspinatus atrophy?; Overhead athlete",
+      "objective": "",
+      "tests": ""
+    },
+    "Long Thoracic Nerve": {
+      "type": "Clinical Pattern",
+      "subjective": "Scapular winging; Scapular dyskinesis?; Axilla/lateral border of scapula pain",
+      "objective": "",
+      "tests": ""
+    },
+    "Thoracic Outlet Syndrome": {
+      "type": "Clinical Pattern",
+      "subjective": "Pain or numbness down the arm; Neurogenic TOS; Vascular TOS",
+      "objective": "",
+      "tests": ""
+    },
+    "Calcific Tendinopathy": {
+      "type": "Clinical Pattern",
+      "subjective": "Acute, sudden onset of shoulder pain; Severe shoulder pain",
+      "objective": "",
+      "tests": ""
+    }
+  }
+}
