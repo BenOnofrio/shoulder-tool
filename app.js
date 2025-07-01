@@ -61,7 +61,7 @@
     frag.appendChild(fs);
   });
 
-  /* 4. “Calculate” button + result panel */
+  /* 5. “Calculate” button + result panel */
 const calc     = document.createElement('button');
 calc.id        = 'calc';
 calc.textContent = 'Calculate';
