@@ -1,3 +1,10 @@
+const CDN = 'https://cdn.jsdelivr.net/gh/BenOnofrio/shoulder-tool@latest/';   // <-- ①
+
+const [LOOKUP, EVIDENCE] = await Promise.all([
+  fetch(CDN + 'lookup.json').then(r => r.json()),                                   // <-- ②
+  fetch(CDN + 'evidence.json').then(r => r.json())
+]);
+
 /* app.js – Shoulder Diagnostic Tool (browser-only, no build step) */
 (async () => {
   /* ---------- 0. HTML landing pad ---------- */
